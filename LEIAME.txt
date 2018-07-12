@@ -1,0 +1,19 @@
+LEIA-ME
+
+Universidade Federal de Juiz de Fora
+Departamento de Ciência da Computação
+DCC001 - Análise e Projetos de Algoritmos - Trabalho Prático - 2018.1
+
+Os arquivos fonte estão na pasta /src
+Os arquivos de cabecalho estão na pasta /include
+As instâncias de teste estão na pasta /Emparelhamento-final
+Instruções semelhantes estão no arquivo main.cpp
+
+INSTRUCOES PARA A EXECUCAO DO CODIGO
+Primeiramente, escreva o caminho onde o minisat esta instalado em sua maquina na variavel MINISAT, na linha 38
+Dentro da pasta .../Emparelhamento-final execute no terminal o comando "make"
+Execute o programa digitando no terminal: ./main <arquivo_contendo_grafo.txt>
+As instancias usadas para teste sao: teste1_wiki.txt , teste2_wiki.txt, teste3_wiki.txt, teste4.txt, teste_10.txt, teste_30.txt
+
+Gisele Goulart - 201365089C
+Guilherme Felix - 201365504B ...---...
